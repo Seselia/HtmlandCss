@@ -1,2 +1,2 @@
 # HtmlandCss
-pure html &amp; css projects
+Pure Html &amp; Css Project
